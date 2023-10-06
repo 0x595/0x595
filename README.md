@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 595</h1>
 <h3 align="center">A passionate Cyber Security Person from India</h3>
-<img align="right" alt="cyber" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="center" alt="cyber" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x595&label=Profile%20views&color=0e75b6&style=flat" alt="0x595" /> </p>
 
