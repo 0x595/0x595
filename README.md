@@ -1,7 +1,7 @@
-[MasterHead](https://images.app.goo.gl/NxSUzPTSoVyKsf8b6)
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQHNO93o1JGzaA/profile-displaybackgroundimage-shrink_200_800/0/1632596268436?e=2147483647&v=beta&t=vNItIo-cLGUhBpF1S2ubrH5LX4xp21ku5HSE8LMJY1c)
 <h1 align="center">Hi 👋, I'm 595</h1>
 <h3 align="center">A passionate Cyber Security Person from India</h3>
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x595&label=Profile%20views&color=0e75b6&style=flat" alt="0x595" /> </p>
 
